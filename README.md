@@ -1,5 +1,6 @@
 # Mr Kapptie's Gamve Development Portfolio
-First yerar game development sudent interested in...
+First year game development sudent interested in...
+* Graduation date in 2025
 
 ## Term 1 Projects
 
